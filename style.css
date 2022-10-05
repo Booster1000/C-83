@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    color: aquamarine;
+    font-size: 40px;
+    background-image: url("https://wallpaper.dog/large/5549638.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Comic Sans Ms";
+}
+button{
+    color: aquamarine;
+    font-size: 50px;
+    background-color: blue;
+    text-align: center;
+    font-family: "Comic Sans Ms";
+}
+canvas{
+    background-color: black;
+    border: 5px white solid;
+    border-radius: 20px;
+}
+
+input{
+    background-color: blue;
+    width:10%;
+    height:5%;
+    color: aquamarine;
+    font-size: 40px;
+    font-family: "Comic Sans Ms";
+}
